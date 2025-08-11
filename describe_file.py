@@ -5,6 +5,8 @@
 
 	df.head()
 	df.describe()
+	df.["value"].min()
 	
+
 
 
