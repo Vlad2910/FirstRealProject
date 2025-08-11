@@ -5,7 +5,8 @@
 
 	df.head()
 	df.describe()
-	df.["value"].max()
+	df.["value"].min()
+	
 
 
 
